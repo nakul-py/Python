@@ -1,10 +1,10 @@
 # README.MD 
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nakul-py/git-hindi?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/nakul-py/git-hindi?style=social" alt="GitHub Forks"/>
-  <img src="https://img.shields.io/github/issues/nakul-py/git-hindi" alt="GitHub Issues"/>
-  <img src="https://img.shields.io/github/license/nakul-py/git-hindi" alt="License"/>
+  <img src="https://img.shields.io/github/stars/nakul-py/Python?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/nakul-py/Python?style=social" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/issues/nakul-py/Python" alt="GitHub Issues"/>
+  <img src="https://img.shields.io/github/license/nakul-py/Python" alt="License"/>
 </p>
 
 A simple Python-based repositoriey that have different python files and porjects.
@@ -16,7 +16,6 @@ A simple Python-based repositoriey that have different python files and porjects
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 ## Understanding github
 
 
@@ -24,11 +23,11 @@ A simple Python-based repositoriey that have different python files and porjects
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nakul-py/git-hindi.git
+    git clone https://github.com/nakul-py/Python.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd git-hindi
+    cd Pyhton
     ```
 3. Make a new branch and then solve issues.
    ```
@@ -60,12 +59,9 @@ A simple Python-based repositoriey that have different python files and porjects
 
 ## Usage
 
-Explain how to use the project, possibly including code snippets.
+***Want to know How to use the project? lets go..***
 
 Example:
-```markdown
-
-------------------------------------
 
 1. Run the program:
     ```bash
@@ -76,13 +72,8 @@ Example:
 
 Encourage others to contribute by outlining how they can do so.
 
-Example:
-```markdown
-
---------------------------------------------
-
 Contributions are welcome! Please follow the steps below to contribute:
-
+```
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
@@ -92,9 +83,8 @@ Contributions are welcome! Please follow the steps below to contribute:
 
 *Please make sure your code follows the project's coding standards and includes tests.*
 
-## License
+```
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Thanks for Reading
 
-## thanks for reading
-;)
+## :)
