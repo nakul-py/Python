@@ -1,4 +1,4 @@
-# README.MD 
+# *Python* 
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/nakul-py/Python?style=social" alt="GitHub Stars"/>
@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/license/nakul-py/Python" alt="License"/>
 </p>
 
-A simple Python-based repositoriey that have different python files and porjects.
+# *Readme.md file* 
+
+**A simple Python-based repositoriey that have different python files and porjects.**
 
 ## Table of Contents
 
